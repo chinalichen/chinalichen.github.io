@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>什么都不知道</title>
+  
+  
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://chinalichen.me/"/>
+  <updated>2017-09-12T07:31:34.307Z</updated>
+  <id>http://chinalichen.me/</id>
+  
+  <author>
+    <name>李晨</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>我是如何选购电脑的</title>
+    <link href="http://chinalichen.me/2017/09/11/How_I_choose_a_computer/"/>
+    <id>http://chinalichen.me/2017/09/11/How_I_choose_a_computer/</id>
+    <published>2017-09-11T09:05:07.986Z</published>
+    <updated>2017-09-12T07:31:34.307Z</updated>
+    
+    <content type="html"><![CDATA[<p>昨天高中舍友小Q找我介绍一款笔记本电脑。之前他已经让我介绍过三四款，是给他的弟弟妹妹们上大学买的。由于之前的经历，现在小Q已经可以很精确地描述他的需求了，这次是这样的：</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;昨天高中舍友小Q找我介绍一款笔记本电脑。之前他已经让我介绍过三四款，是给他的弟弟妹妹们上大学买的。由于之前的经历，现在小Q已经可以很精确地描述他的需求了，这次是这样的：&lt;/p&gt;
+
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+</feed>
